@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97d78633.css",
+    "main.js": "/static/js/main.02313ce7.js",
+    "static/media/binoculars-magnifying-glass-retro-maps.jpg": "/static/media/binoculars-magnifying-glass-retro-maps.333374650fc12565a15a.jpg",
+    "static/media/treasurebox.jpg": "/static/media/treasurebox.c79066ee5287950d2611.jpg",
+    "static/media/Ques3.jpg": "/static/media/Ques3.9ddfabd5212ef8701f98.jpg",
+    "static/media/Ques10.jpg": "/static/media/Ques10.991f053c87cbfab403fd.jpg",
+    "static/media/Ques6.jpg": "/static/media/Ques6.91fbbc7e456f7d3e376a.jpg",
+    "static/media/Ques1.jpg": "/static/media/Ques1.dcbe197908666f9784bf.jpg",
+    "static/media/Ques7.jpg": "/static/media/Ques7.327193e954a1105957bd.jpg",
+    "static/media/notebook-pen-near-travel-stuff_23-2147793439.avif": "/static/media/notebook-pen-near-travel-stuff_23-2147793439.e74a8a907fa319137a18.avif",
+    "static/media/bgpuzzles.jpg": "/static/media/bgpuzzles.8dc4c004d98b5d7b9d62.jpg",
+    "static/media/Ques5.jpg": "/static/media/Ques5.abf8f378d84af0eb14b0.jpg",
+    "static/media/Ques9.jpg": "/static/media/Ques9.48355a8695b78db31433.jpg",
+    "static/media/Ques2.jpg": "/static/media/Ques2.baac94156a761f667ab2.jpg",
+    "static/media/Ques4.jpg": "/static/media/Ques4.77f21806a3bb97411903.jpg",
+    "static/media/Ques8.jpg": "/static/media/Ques8.0868996c8863c88afb5a.jpg",
+    "index.html": "/index.html",
+    "main.97d78633.css.map": "/static/css/main.97d78633.css.map",
+    "main.02313ce7.js.map": "/static/js/main.02313ce7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d78633.css",
+    "static/js/main.02313ce7.js"
+  ]
+}
