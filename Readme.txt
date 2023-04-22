@@ -1,5 +1,6 @@
 To start this web service, first do git pull in your terminal.
-Run, npm init, resulting in creation of node_modules folder containing the information and dependencies of the code.
+Run, npm install and npm init, resulting in creation of node_modules folder containing the information and dependencies of the code.
+then, run npm i express
 Run command, node index.js to run the web service.
 You can start playing the puzzles only after registration and login process.
 
@@ -19,3 +20,5 @@ for database connection and secret key used:
 .env file
 DB="mongodb+srv://bhavya:bhavyaverma12345@cluster0.w5ligv9.mongodb.net/?retryWrites=true&w=majority"
 SECRET_KEY="ITSBHAVYAVERMA"
+
+Link to FRONTEND git repository, https://github.com/Bhavya-Verma07/Elitfrontend
