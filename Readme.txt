@@ -13,3 +13,9 @@ Form Login, Login component folder is created.
 About component contains the information regarding instructions of the game.
 
 For logout, Go to Profile Section in Navbar and click on logout button.
+
+
+for database connection and secret key used:
+.env file
+DB="mongodb+srv://bhavya:bhavyaverma12345@cluster0.w5ligv9.mongodb.net/?retryWrites=true&w=majority"
+SECRET_KEY="ITSBHAVYAVERMA"
